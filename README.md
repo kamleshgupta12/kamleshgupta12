@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Gupta</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **MERN Development**
 
